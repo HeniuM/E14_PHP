@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #AEF1F4;
+    font-family: Georgia;
+}
+header{
+    color: white;
+    text-align: center;
+    background-color:  #0EA2A9;
+    height: 80px;
+    
+}
+#lewy{
+    width: 40%;
+    height: 180px;
+    font-size: 150%;
+    float: left;
+    
+}
+table{
+    border: 2px;
+    border-style: solid;
+}
+#dolny{
+    background-color:  #4FCDD4;
+    padding: 30px;
+    clear: left;
+}
+
+footer{
+    background-color: #0EA2A9;
+    color: white;
+    height: 80px;
+    
+}
